@@ -9,7 +9,7 @@
 
 <a href="https://yusuf-4hmed.github.io/Simple-Weather-App/">Project Link</a>
 
-This project was built alongside a <a href="https://yusuf-4hmed.github.io/Simple-Weather-App/">t utorial</a> just as a way for me to improve my JavaScript skills, but we all know that blindly following tutorials isn't the most effective way to learn 🙂
+This project was built alongside a <a href="https://yusuf-4hmed.github.io/Simple-Weather-App/">tutorial</a> just as a way for me to improve my JavaScript skills, but we all know that blindly following tutorials isn't the most effective way to learn 🙂
 
 Which is why I will be updating this project in the future independenty:
 - [ ] Update the style of the site to make it more modern
